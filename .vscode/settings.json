@@ -1,0 +1,8 @@
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4720f2e3-cae8-4ffa-b767-1c01bf8c31fc/resourceGroups/EntropioProspecting5/providers/Microsoft.Web/sites/EntropioProspecting5",
+    "appService.deploySubpath": "."
+}
